@@ -10,7 +10,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌌 PVNPUN",
+    pageTitle: "🌌 PVNPUN BLOG",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -18,7 +18,7 @@ const config: QuartzConfig = {
       tagId: "G-6XY03WD2ST",
     },
     locale: "en-US",
-    baseUrl: "anpigon.pages.dev",
+    baseUrl: "pvnpun.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
