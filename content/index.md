@@ -17,6 +17,6 @@ title: PVNPUN SPACE
 ### About PVNPUN
 
 - Instagram: [🌠](https://www.instagram.com/pvnpun/)
-- Email: pvnpunfilm@gmail.com
+- Email: <pvnpunfilm@gmail.com>
 
 ---
