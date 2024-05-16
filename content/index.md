@@ -1,26 +1,18 @@
 ---
 title: Welcome!
 views: 14
-words: 4
----
-test test test
-
-d
-d
-d
-d
-d
-
-🌌
 ---
 
-### 옵시디언
+> [!NOTE] 여기는?
+> 취미에 관해 정리해두는 곳입니다.
 
-- [[옵시디언 무료 퍼블리시 방법(Quartz)|옵시디언 무료 퍼블리시 방법]]
-- [[내가 개발한 옵시디언 플러그인]]
-- [[옵시디언에서 노트를 외부로 공유하는 방법]]
-- [[옵시디언 관련 유용한 유튜브 및 블로그 모음]]
-- [[아름다운 뉴모픽 미니멀한 종이 같은 Border 테마 프리셋]]
+
+### About What?
+
+- [[content/ECONOMICS/main|About ECONOMICS]]
+- [[content/KEYBOARD/main|About KEYBOARD]]
+- [[content/PHOTOGRAPH/main|About PHOTOGRAPH]]
+- [[content/MUSIC/main|About MUSIC]]
 
 
 ---
