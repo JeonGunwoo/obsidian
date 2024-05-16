@@ -1,10 +1,10 @@
 ---
 title: PVNPUN SPACE
 ---
+### About Here
 
-> [!NOTE] 여기는?
-> **취미에 관해 정리해두는 곳입니다.**
-> 
+	안녕하세요 푼푼의 취미공간입니다.
+	
 
 ### About What?
 
@@ -14,7 +14,7 @@ title: PVNPUN SPACE
 - [[MUSIC/main|About MUSIC]]
 
 
-### About...
+### About Me
 
 - Instagram: www.instagram.com/pvnpun
 - Email: pvnpunfilm@gmail.com
