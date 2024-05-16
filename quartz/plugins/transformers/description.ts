@@ -39,33 +39,29 @@ export const Description: QuartzTransformerPlugin<Partial<Options> | undefined> 
 
             const desc = frontMatterDescription ?? text
             const sentences = desc.replace(/\s+/g, " ").split(/\.\s/)
-            const finalDesc: string[] = []
-            const len = opts.descriptionLength
+            let finalDesc = ""
             let sentenceIdx = 0
-            let currentDescriptionLength = 0
+            const len = opts.descriptionLength
 
             if (sentences[0] !== undefined && sentences[0].length >= len) {
               const firstSentence = sentences[0].split(" ")
-              while (currentDescriptionLength < len) {
+              while (finalDesc.length < len) {
                 const sentence = firstSentence[sentenceIdx]
                 if (!sentence) break
-                finalDesc.push(sentence)
-                currentDescriptionLength += sentence.length
+                finalDesc += sentence + " "
                 sentenceIdx++
               }
-              finalDesc.push("...")
+              finalDesc = finalDesc.trimEnd() + "..."
             } else {
-              while (currentDescriptionLength < len) {
+              while (finalDesc.length < len) {
                 const sentence = sentences[sentenceIdx]
                 if (!sentence) break
-                const currentSentence = sentence.endsWith(".") ? sentence : sentence + "."
-                finalDesc.push(currentSentence)
-                currentDescriptionLength += currentSentence.length
+                finalDesc += sentence.endsWith(".") ? sentence : sentence + "."
                 sentenceIdx++
               }
             }
 
-            file.data.description = finalDesc.join(" ")
+            file.data.description = finalDesc
             file.data.text = text
           }
         },
