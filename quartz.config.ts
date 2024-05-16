@@ -10,7 +10,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌌 PVNPUN",
+    pageTitle: "🌌 PVNPUN BLOG",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
