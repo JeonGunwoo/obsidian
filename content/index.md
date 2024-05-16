@@ -1,5 +1,5 @@
 ---
-title: Welcome to PVNPUN SPACE !!
+title: PVNPUN SPACE
 ---
 
 > [!NOTE] 여기는?
