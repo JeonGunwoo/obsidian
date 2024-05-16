@@ -14,9 +14,9 @@ title: PVNPUN SPACE
 - [[MUSIC/main|About MUSIC]]
 
 
-### About PVNPUN
+### About...
 
 - Instagram: www.instagram.com/pvnpun
 - Email: pvnpunfilm@gmail.com
-
+- Discord: pvnpun_
 ---
