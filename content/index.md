@@ -4,7 +4,7 @@ title: PVNPUN SPACE
 
 > [!NOTE] 여기는?
 > **취미에 관해 정리해두는 곳입니다.**
-
+> 
 
 ### About What?
 
@@ -13,5 +13,10 @@ title: PVNPUN SPACE
 - [[PHOTOGRAPH/main|About PHOTOGRAPH]]
 - [[MUSIC/main|About MUSIC]]
 
+
+### About PVNPUN
+
+- Instagram: [🌠]([🌠](https://www.instagram.com/pvnpun/))
+- Email: pvnpunfilm@gmail.com
 
 ---
