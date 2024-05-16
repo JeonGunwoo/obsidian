@@ -8,15 +8,15 @@ title: PVNPUN SPACE
 
 ### About What?
 
- >   [[ECONOMICS/main|About ECONOMICS]]
- >   [[KEYBOARD/main|About KEYBOARD]]
- >   [[PHOTOGRAPH/main|About PHOTOGRAPH]]
- >   [[MUSIC/main|About MUSIC]]
+ >   [[ECONOMICS/main|About ECONOMICS]]  
+ >   [[KEYBOARD/main|About KEYBOARD]]  
+ >   [[PHOTOGRAPH/main|About PHOTOGRAPH]]  
+ >   [[MUSIC/main|About MUSIC]]  
 
 
 ### About Me
 
- >   Instagram: www.instagram.com/pvnpun
- >   Email: pvnpunfilm@gmail.com
- >   Discord: pvnpun_
+ >   Instagram: www.instagram.com/pvnpun  
+ >   Email: pvnpunfilm@gmail.com  
+ >   Discord: pvnpun_  
 ---
