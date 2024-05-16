@@ -9,7 +9,7 @@ views: 14
 
 ### About What?
 
-- [[ECONOMICS/main|About ECONOMICS]]
+- [[https://pvnpun.pages.dev/ECONOMICS/main|About ECONOMICS]]
 - [[KEYBOARD/main|About KEYBOARD]]
 - [[PHOTOGRAPH/main|About PHOTOGRAPH]]
 - [[MUSIC/main|About MUSIC]]
