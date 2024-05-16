@@ -1,3 +1,10 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+@font-face {
+    font-family: 'Sagak-sagak';
+    src: url('https://docs.google.com/uc?export=download&id=1rJxu9bhDAr8EK2uTp9ZFa0uBJ0VFqha7&confirm=t') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }

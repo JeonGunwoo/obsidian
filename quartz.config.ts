@@ -6,9 +6,11 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
+
+
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 디지털 가든",
+    pageTitle: "🌌 PVNPUN",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -22,8 +24,8 @@ const config: QuartzConfig = {
     theme: {
       cdnCaching: true,
       typography: {
-        header: "Gowun Dodum",
-        body: "Gowun Dodum",
+        header: "Sagak-Sagak",
+        body: "Sagak-Sagak",
         code: "JetBrains Mono",
       },
       colors: {
@@ -73,7 +75,7 @@ const config: QuartzConfig = {
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
-      Plugin.ComponentResources({ fontOrigin: "googleFonts" }),
+      Plugin.ComponentResources({ fontOrigin: "local", paths: ["quartz/styles/custom.css"] }),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
