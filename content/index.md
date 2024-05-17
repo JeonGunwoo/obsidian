@@ -8,13 +8,14 @@ title: PVNPUN SPACE
 
 ### About What?
 
- >   [[ECONOMICS/main|About ECONOMICS]]  
- >     
+
  >   [[KEYBOARD/main|About KEYBOARD]]  
  >     
  >   [[PHOTOGRAPH/main|About PHOTOGRAPH]]  
  >     
  >   [[MUSIC/main|About MUSIC]]  
+ >     
+  >   [[WHAT I STUDY/ECONOMICS/main|About ECONOMICS]]  
 
 
 ### About Me
