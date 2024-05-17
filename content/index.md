@@ -15,7 +15,9 @@ title: PVNPUN SPACE
  >     
  >   [[MUSIC/main|About MUSIC]]  
  >     
-  >   [[WHAT I STUDY/ECONOMICS/main|About ECONOMICS]]  
+ >   [[WHAT I STUDY/ECONOMICS/main|About ECONOMICS]]  
+ >     
+ >   [[WHAT I STUDY/CAD/main|About CAD]]
 
 
 ### About Me
