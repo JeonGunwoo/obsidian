@@ -3,7 +3,6 @@ title: 1. Modal Soul - Nujabes
 tags:
   - Nujabes
   - "#재즈힙합"
-date: 2005. 11. 11
 ---
 
 > [!NOTE] 이 앨범은?
@@ -13,10 +12,10 @@ date: 2005. 11. 11
 
 ### Playlist 💿
 
-1. **Feather** 
+1. Feather [[https://youtu.be/hQ5x8pHoIPA?si=b5uxRaCJjZDbqiKU|💿]]
 2. ordinary joe 
-3. **reflextion eternal** 
-4. **Luv(sic.) pt3** 
+3. reflextion eternal [[https://youtu.be/2wK27xW4OFI?si=7WHj9LczeNRz5a4e|💿]]
+4. Luv(sic.) pt3 [[https://youtu.be/Fwv2gnCFDOc?si=_T6VQN7uZyfrVnzE|💿]]
 5. Music is mine
 6. Eclipse
 7. The Sign
