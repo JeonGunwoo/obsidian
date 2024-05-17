@@ -13,10 +13,10 @@ date: 2005. 11. 11
 
 ### Playlist 💿
 
-1. <font color="#1f497d">Feather </font>
+1. **Feather** 
 2. ordinary joe 
-3. <font color="#1f497d">reflextion eternal </font>
-4. <font color="#1f497d">Luv(sic.) pt3</font> 
+3. **reflextion eternal** 
+4. **Luv(sic.) pt3** 
 5. Music is mine
 6. Eclipse
 7. The Sign
