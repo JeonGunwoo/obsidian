@@ -1,5 +1,5 @@
 
-{{ https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS?si=vTAPe91ZQ4uuRliaPBZopA }}
+**Album Name**: {{ open.spotify.com/album/6nVACH6a27eOWiumAJhDWS?si=vTAPe91ZQ4uuRliaPBZopA }}
 
 **Song Name:** {{ song_name }}
 **Song URL:** {{ song_link }}
