@@ -19,7 +19,13 @@ title: PVNPUN SPACE
  >     
  >   [[WHAT I STUDY/CAD/main|About CAD]]
 
+### About Updates
 
+>    [[엔 캐리 트레이드]]
+>      
+>    [[ㅇㅇ|X]]
+>      
+>    [[ㅇㅇ|X]]
 ### About Me
 
  >   Instagram: www.instagram.com/pvnpun  
