@@ -10,7 +10,7 @@ title: 0. 음악
 -  [[modal soul|Modal Soul - Nujabes]]
 -  blonde - Frank Ocean
 -  A Brief Inquiry Into Online Relationship - The 1975
--  Cliche - Kid Mili
+-  Cliche - Kid Milli
 -  Crying End Roll - indigo la end
 -  Donuts - J Dilla
 -  
