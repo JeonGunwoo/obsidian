@@ -10,11 +10,12 @@ title: 0. 음악
 ##### TIER S
   
 > [[frank ocean]]   
-> [[english/nujabes]]   
+> [[nujabes]]   
+> [[jpegmafia]]   
   
 ##### TIER A
   
-> 
+> [[indigo la end ]]   
 > [[]]
   
 ##### TIER B
