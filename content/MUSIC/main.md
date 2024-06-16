@@ -5,15 +5,22 @@ title: 0. 음악
 > [!NOTE] 여기는?
 > **음악에 대해 정리해두는 곳입니다.**
 
-### 앨범 추천
+### 아티스트 추천
 
--  [[modal soul|Modal Soul - Nujabes]]
--  blonde - Frank Ocean
--  A Brief Inquiry Into Online Relationship - The 1975
--  Cliche - Kid Milli
--  Crying End Roll - indigo la end
--  Donuts - J Dilla
--  
+##### 모르면 인생 손해봄
+  
+> [[]]
+> [[nujabes|Nujabes]]
+  
+##### 알면 인생이 즐거워짐
+  
+> 
+> [[]]
+  
+##### 가끔씩 꺼내먹으면 맛있음
+  
+> [[]]
 
+##### 
 
 ### 플레이리스트
