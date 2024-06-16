@@ -9,8 +9,8 @@ title: 0. 음악
 
 ##### TIER S
   
-> [[frank ocean]]
-> [[english/nujabes]]
+> [[frank ocean]]   
+> [[english/nujabes]]   
   
 ##### TIER A
   
